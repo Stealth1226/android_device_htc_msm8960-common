@@ -264,8 +264,8 @@ PRODUCT_PACKAGES += \
 #    telephony-ext
 
 # Lineage hardware
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.trust@1.0-service
 
 # WiFi HIDL interfaces
 PRODUCT_PACKAGES += \
