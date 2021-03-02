@@ -289,3 +289,9 @@ PRODUCT_PACKAGES += \
 # Voice processing
 PRODUCT_PACKAGES += \
     libqcomvoiceprocessing
+
+# Platform
+PRODUCT_BOARD_PLATFORM := msm8960
+PRODUCT_USES_QCOM_HARDWARE := true
+PRODUCT_SOONG_NAMESPACES += \
+ hardware/qcom-caf/msm8960/display
