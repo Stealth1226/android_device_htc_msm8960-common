@@ -248,8 +248,8 @@ PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-service.htc8960
 
 # Touch HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.htc8960
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.touch@1.0-service.htc8960
 
 # USB HIDL interfaces
 PRODUCT_PACKAGES += \
@@ -265,8 +265,8 @@ PRODUCT_PACKAGES += \
 #    telephony-ext
 
 # Lineage hardware
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.trust@1.0-service
 
 # WiFi HIDL interfaces
 PRODUCT_PACKAGES += \
